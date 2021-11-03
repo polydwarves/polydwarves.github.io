@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1e2eD5d3fe9936d3BaF9ac0d202BC36F673d9fAC",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1e2ed5d3fe9936d3baf9ac0d202bc36f673d9fac",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PolyDwarves",
+  "SYMBOL": "POLYDWARVES",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polydwarves",
+  "SHOW_BACKGROUND": true
+}
